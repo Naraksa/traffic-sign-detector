@@ -1,0 +1,8 @@
+path: D:/AUPP/Junior/Spring semester/Machine Learning/finalproject/data/dataset
+train: images/train
+val: images/val
+test: images/test
+
+nc: 1
+names:
+  0: Traffic Sign
